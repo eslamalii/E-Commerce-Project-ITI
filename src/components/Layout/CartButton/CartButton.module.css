@@ -1,0 +1,21 @@
+.icon {
+  width: 2.35rem;
+  height: 2.35rem;
+  margin-right: 0.5rem;
+}
+
+.button {
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+  color: white;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+
+.badge {
+  background-color: #06283d;
+  padding: 0.1rem 0.5rem;
+  border-radius: 25px;
+}/*# sourceMappingURL=CartButton.module.css.map */

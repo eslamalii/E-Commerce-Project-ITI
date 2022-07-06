@@ -1,0 +1,26 @@
+.card {
+  display: flex;
+  width: 100%;
+  height: 200px;
+  box-shadow: 0 0 4px 1px #d0d0d0;
+  overflow: hidden;
+  border-radius: 5px;
+  margin: 10px auto;
+  padding: 15px;
+}
+
+.img {
+  width: auto;
+  height: 150px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.button {
+  cursor: pointer;
+  border: none;
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}/*# sourceMappingURL=CartItem.module.css.map */

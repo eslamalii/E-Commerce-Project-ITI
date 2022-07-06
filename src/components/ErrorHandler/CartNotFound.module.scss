@@ -1,0 +1,42 @@
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+
+  img {
+    height: 30vh;
+    width: auto;
+    margin-bottom: 30px;
+    display: block;
+  }
+}
+
+.main {
+  font-size: 2rem;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 24px;
+  margin-bottom: 4px;
+}
+
+.text {
+  color: rgb(64, 69, 83);
+  font-size: 1.2rem;
+}
+
+.button {
+  margin-top: 20px;
+  width: 250px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(56, 102, 223);
+  border: rgb(56, 102, 223);
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.2px;
+  padding: 12px 20px;
+  font-size: 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
